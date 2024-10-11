@@ -48,11 +48,11 @@ If you have any questions about this project, please feel free to drop me an ema
 NIE Lang -- nielang@bjtu.edu.cn
 ```
 @inproceedings{nie2024eliminating,
-author="Nie, Lang and Lin, Chunyu and Liao, Kang and Zhang, Yun and Liu, Shuaicheng and Ai, Rui and Zhao, Yao",
-title="Eliminating Warping Shakes for Unsupervised Online Video Stitching",
-booktitle="ECCV",
-year="2024",
-pages="390--407"
+author={Nie, Lang and Lin, Chunyu and Liao, Kang and Zhang, Yun and Liu, Shuaicheng and Ai, Rui and Zhao, Yao},
+title={Eliminating Warping Shakes for Unsupervised Online Video Stitching},
+booktitle={ECCV},
+year={2024},
+pages={390--407}
 }
 ```
 
