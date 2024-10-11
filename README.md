@@ -57,6 +57,6 @@ pages="390--407"
 ```
 
 ## References
-[1] L. Nie, C. Lin, K. Liao, Y. Zhang, S. Liu, R. Ai, Y. Zhao. Eliminating Warping Shakes for Unsupervised Online Video Stitching. ECCV, 2024.
+[1] L. Nie, C. Lin, K. Liao, Y. Zhang, S. Liu, R. Ai, Y. Zhao. Eliminating Warping Shakes for Unsupervised Online Video Stitching. ECCV, 2024.   
 [2] L. Nie, C. Lin, K. Liao, S. Liu, and Y. Zhao. Parallax-Tolerant Unsupervised Deep Image Stitching. ICCV, 2023.   
 [3] S. Liu, P. Tan, L. Yuan, J. Sun, and B. Zeng. Meshflow: Minimum latency online video stabilization. ECCV, 2016.  
