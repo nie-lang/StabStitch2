@@ -23,12 +23,12 @@
 The above figure shows the difference between StabStitch and StabStitch++.
 > 
 ## Video
-We will release a video of our results on YouTube.
+We have released a [video](https://www.youtube.com/watch?v=D06ySUVqAXw&t=47s) of our results on YouTube.
 
 ## 📝 Changelog
 
 - [x] 2024.10.11: The repository of StabStitch++ is created.
-- [ ] Release the video of our results.
+- [x] Release the video of our results.
 - [ ] Release the collected traditional datasets.
 - [ ] Release the testing code and pre-trained models.
 - [ ] Release the training code.
