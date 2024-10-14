@@ -23,7 +23,7 @@
 The above figure shows the difference between StabStitch and StabStitch++.
 > 
 ## Video
-We have released a [video](https://www.youtube.com/watch?v=D06ySUVqAXw&t=47s) of our results on YouTube.
+We have released a [video](https://youtu.be/D06ySUVqAXw) of our results on YouTube.
 
 ## 📝 Changelog
 
