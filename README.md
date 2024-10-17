@@ -39,7 +39,14 @@ For the StabStitch-D dataset, please refer to [StabStitch](https://github.com/ni
 For the collected traditional datasets, they are available at [Google Drive](https://drive.google.com/file/d/14PTsVXy-lbq0fMjTogJ6eY9P8vA0yOxM/view?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/1Wj7o-4BgV-Un5JwFcfInEA)(Extraction code: 1234).
 
 ## Code
-We plan to release the code in about two weeks.
+#### Requirement
+We implement StabStitch with one GPU of RTX4090Ti. Refer to [environment.yml](https://github.com/nie-lang/StabStitch/blob/main/environment.yml) for more details.
+
+#### How to run it
+* Inference with our pre-trained models: please refer to  [Full_model_inference/readme.md](https://github.com/nie-lang/StabStitch2/blob/main/Full_model_inference/README.md).
+* * Train the spatial warp model: please refer to [SpatialWarp/readme.md](https://github.com/nie-lang/StabStitch2/blob/main/SpatialWarp/README.md).
+* * Train the temporal warp model: please refer to [TemporalWarp/readme.md](https://github.com/nie-lang/StabStitch2/blob/main/TemporalWarp/README.md).
+* * Train the warp smoothing model: please refer to [SmoothWarp/readme.md](https://github.com/nie-lang/StabStitch2/blob/main/SmoothWarp/README.md).
 
 
 ## Meta
