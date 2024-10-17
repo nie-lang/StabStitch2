@@ -1,4 +1,4 @@
-#### NOTE
+#### ATTENTION
 When you want to train the warp smoothing model, you should generate the spatial and temporal warps first, as described in SpatialWarp/README.md and TemporalWarp/README.md.
 
 #### Train on the StabStitch-D dataset
