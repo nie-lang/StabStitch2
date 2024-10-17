@@ -40,7 +40,7 @@ For the collected traditional datasets, they are available at [Google Drive](htt
 
 ## Code
 #### Requirement
-We implement StabStitch with one GPU of RTX4090Ti. Refer to [environment.yml](https://github.com/nie-lang/StabStitch/blob/main/environment.yml) for more details.
+We implement StabStitch++ with one GPU of RTX4090Ti. Refer to [environment.yml](https://github.com/nie-lang/StabStitch2/blob/main/environment.yml) for more details.
 
 #### How to run it
 * Inference with our pre-trained models: please refer to  [Full_model_inference/readme.md](https://github.com/nie-lang/StabStitch2/blob/main/Full_model_inference/README.md).
