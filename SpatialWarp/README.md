@@ -15,7 +15,7 @@ python test_ssd.py
 ```
 or
 ```
-python test_ssd.py
+python test_tra.py
 ```
 #### NOTE
 1. We only generate the spatial warps for the training set.
