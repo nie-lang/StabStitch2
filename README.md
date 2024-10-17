@@ -30,8 +30,10 @@ We have released a [video](https://youtu.be/D06ySUVqAXw) of our results on YouTu
 - [x] 2024.10.11: The repository of StabStitch++ is created.
 - [x] 2024.10.14: Release the video of our results.
 - [x] 2024.10.16: Release the collected traditional datasets.
-- [ ] Release the testing code and pre-trained models.
-- [ ] Release the training code.
+- [x] 2024.10.17: Release the inference code and pre-trained models.
+- [x] 2024.10.17: Release the training code.
+- [x] 2024.10.17: Release the inference code to stitch multiple videos.
+- [ ] Release the paper (journal version of StabStitch).
 
 ## Dataset 
 For the StabStitch-D dataset, please refer to [StabStitch](https://github.com/nie-lang/StabStitc). 
