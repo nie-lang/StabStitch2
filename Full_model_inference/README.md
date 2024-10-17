@@ -1,1 +1,4 @@
+#### Pre-trained model
+For StabStitch-D dataset, the pre-trained models (spatial_warp.pth, temporal_warp.pth, and smooth_warp.pth) are available at [Google Drive](https://drive.google.com/drive/folders/1uqX7n8yXLTo2y_by71LOmCphHdZFiu3s?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/1vWa3UlzLGVtsdki5-dBDxQ) (extraction code: 1234). Please download them and put them in the 'Full_model_inference/full_model_ssd/' folder.  
 
+For traditional datasets, the pre-trained models (spatial_warp.pth, temporal_warp.pth, and smooth_warp.pth) are available at [Google Drive](https://drive.google.com/drive/folders/1yBzID35QDfeGinNSqGT_qyvjKnuS6l1S?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/1zvpikaFH5Mhz8Rh2ouhhVQ) (extraction code: 1234). Please download them and put them in the 'Full_model_inference/full_model_tra/' folder.
