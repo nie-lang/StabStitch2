@@ -21,7 +21,16 @@
 > 2. A new warp smoothing model is presented to simultaneously encourage content alignment, trajectory smoothness, and online collaboration. Different from StabStitch that sacrifices alignment for stabilization, the new model makes no compromise and optimizes both of them in the online mode. 
 ![image](https://github.com/nie-lang/StabStitch2/blob/main/figure.jpg)
 The above figure shows the difference between StabStitch and StabStitch++.
-> 
+>
+## Performance Comparison
+|  | Method| Alignment(PSNR/SSIM) $\uparrow$|Stability $\downarrow$|Distortion $\downarrow$| Inference Speed $\uparrow$|
+|:-------- |:-----|:-----|:-----|:-----|:-----|
+|1  | StabStitch|  29.89/0.890| 48.74 | 0.674| **35.5fps**|
+|2  | StabStitch++| **30.88/0.898**| **41.70**|**0.371**| 28.3fps|  
+
+The performance and speed are evaluated on the StabStitch-D dataset with one RTX4090 GPU.
+
+
 ## Video
 We have released a [video](https://youtu.be/D06ySUVqAXw) of our results on YouTube.
 
