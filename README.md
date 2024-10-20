@@ -51,7 +51,16 @@ For the collected traditional datasets, they are available at [Google Drive](htt
 
 ## Code
 #### Requirement
-We implement StabStitch++ with one GPU of RTX4090Ti. Refer to [environment.yml](https://github.com/nie-lang/StabStitch2/blob/main/environment.yml) for more details.
+* python 3.8.5
+* numpy 1.19.5
+* pytorch 1.13.1+cu116
+* torchvision 0.14.1+cu116
+* opencv-python-headless 4.5.1.48
+* scikit-image 0.15.0
+* tensorboard 2.9.0
+
+We implement this work with Ubuntu, RTX4090Ti, and CUDA11. Refer to [environment.yml](https://github.com/nie-lang/StabStitch2/blob/main/environment.yml) for more details.
+
 
 #### How to run it
 * Inference with our pre-trained models: please refer to  [Full_model_inference/readme.md](https://github.com/nie-lang/StabStitch2/blob/main/Full_model_inference/README.md).
