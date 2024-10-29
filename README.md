@@ -45,7 +45,7 @@ We have released a [video](https://youtu.be/D06ySUVqAXw) of our results on YouTu
 - [ ] Release the paper of StabStitch++ (journal version of StabStitch).
 
 ## Dataset 
-For the StabStitch-D dataset, please refer to [StabStitch](https://github.com/nie-lang/StabStitc). 
+For the StabStitch-D dataset, please refer to [StabStitch](https://github.com/nie-lang/StabStitch). 
 
 For the collected traditional datasets, they are available at [Google Drive](https://drive.google.com/file/d/14PTsVXy-lbq0fMjTogJ6eY9P8vA0yOxM/view?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/1Wj7o-4BgV-Un5JwFcfInEA)(Extraction code: 1234).
 
