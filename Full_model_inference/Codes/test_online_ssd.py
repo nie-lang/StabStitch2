@@ -411,8 +411,7 @@ def test(args):
 
         # get the stable video
         for k in range(len(stable_list)):
-            ave_fusion = stable_list[k].cpu().numpy().transpose(1,2,0)
-            media_writer.write(ave_fusion.astype(np.uint8 ))
+            media_writer.write(stable_list[k].astype(np.uint8 ))
 
 
         media_writer.release()
