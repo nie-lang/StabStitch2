@@ -502,7 +502,7 @@ def test(args):
             fusion = linear_blender(img12_fusion, img_warp[2,0:3,...].unsqueeze(0), mask12, mask3)
             fusion = fusion[0]
 
-        stable_list.append(fusion)
+        stable_list.append(fusion.cpu())
 
     print("begin to write into video")
     # save video
