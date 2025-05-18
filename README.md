@@ -1,6 +1,7 @@
 # <p align="center">StabStitch++: Unsupervised Online Video Stitching with Spatiotemporal Bidirectional Warps
 
 ## Introduction
+This is the official implementation for [StabStitch++](https://arxiv.org/pdf/2505.05001) (TPAMI2025).
 
 [Lang Nie](https://nie-lang.github.io/)<sup>1</sup>, [Chunyu Lin](https://faculty.bjtu.edu.cn/8549/)<sup>1</sup>, [Kang Liao](https://kangliao929.github.io/)<sup>2</sup>, [Yun Zhang](http://zhangyunnet.cn/academic/index.html)<sup>3</sup>, [Shuaicheng Liu](http://www.liushuaicheng.org/)<sup>4</sup>, [Yao Zhao](https://faculty.bjtu.edu.cn/5900/)<sup>1</sup>
 
@@ -42,7 +43,7 @@ We have released a [video](https://youtu.be/D06ySUVqAXw) of our results on YouTu
 - [x] 2024.10.17: Release the inference code and pre-trained models.
 - [x] 2024.10.17: Release the training code.
 - [x] 2024.10.17: Release the inference code to stitch multiple videos.
-- [ ] Release the paper of StabStitch++ (journal version of StabStitch).
+- [x] Release the paper of StabStitch++ (journal version of StabStitch).
 
 ## Dataset 
 For the StabStitch-D dataset, please refer to [StabStitch](https://github.com/nie-lang/StabStitch). 
@@ -81,6 +82,14 @@ NIE Lang -- nielang@bjtu.edu.cn
   pages={390--407},
   year={2025},
   organization={Springer}
+}
+
+@article{nie2025stabstitch++,
+  title={StabStitch++: Unsupervised Online Video Stitching with Spatiotemporal Bidirectional Warps},
+  author={Nie, Lang and Lin, Chunyu and Liao, Kang and Zhang, Yun and Liu, Shuaicheng and Zhao, Yao},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
